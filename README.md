@@ -1,6 +1,6 @@
 
 ### Continuous Delivery with Heroku and GitHub.
-This example is fully integrated with Heroku platform (pipeline with review, stage and production applications). 
+This example is fully integrated with Heroku platform (pipeline with review, stage and production applications). You can connect each app according to your branches' workflows.
 
 \* Obs: This example is just about Continuous Delivery. With you want to see the same example with Continuous Integration included, check it out  in my GitLab account: https://gitlab.com/marcosricardoss/hello-heroku-ci-cd
 
