@@ -1,10 +1,11 @@
 
-### Continuous Delivery with Heroku and GitHub.
-This example is fully integrated with Heroku platform (pipeline with review, stage and production applications). You can connect each app according to your branches' workflows.
+### FLask CI/CD with Heroku
 
-\* Obs: This example is just about Continuous Delivery. With you want to see the same example with Continuous Integration included, check it out  in my GitLab account: https://gitlab.com/marcosricardoss/hello-heroku-ci-cd
+This example of Continuous Delivery with Heroku and GitHub and and It can be used fully integrated with Heroku platform (pipeline with review, stage and production applications). 
 
-\** Obs: You can continue to use GitHub as your main version control and run CI/CD pipelines on GitLab by just connecting the GitHub repository in a GitLab repository and the project will be created with only CI/CD features enabled. So the whole process of deployment and testing will be done by GitLab.
+\* Obs: This example is just about Continuous Delivery. With you want to see the same example with Continuous Integration included, check it out in my GitLab account: https://gitlab.com/marcosricardoss/hello-heroku-ci-cd
+
+\** Obs: You can use GitHub integrated with GitLab. By connecting the GitHub repository to a GitLab repository, the GitLab project will be created with only CI/CD features enabled. So you can keep using the GitHub as your main version control, but the whole process of deployment and testing will be done by GitLab.
 
 #### Contributing
 
