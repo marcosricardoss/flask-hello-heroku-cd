@@ -2,7 +2,7 @@
 ### Continuous Delivery with Heroku and GitHub.
 This example is fully integrated with Heroku platform (pipeline with review, stage and production applications). 
 
-\* Obs: This example is just about Continuous Delivery. With you want to see the same example with Continuous Integration included, check it out  in my GitLab account: [GitLab]    (https://gitlab.com/marcosricardoss/hello-heroku-ci-cd)
+\* Obs: This example is just about Continuous Delivery. With you want to see the same example with Continuous Integration included, check it out  in my GitLab account: https://gitlab.com/marcosricardoss/hello-heroku-ci-cd
 
 \** Obs: You can continue to use GitHub as your main version control and run CI/CD pipelines on GitLab by just connecting the GitHub repository in a GitLab repository and the project will be created with only CI/CD features enabled. So the whole process of deployment and testing will be done by GitLab.
 
