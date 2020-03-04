@@ -1,5 +1,5 @@
 
-### FLask CI/CD with Heroku
+### FLask Continuous Delivery with Heroku
 
 This example of Continuous Delivery with Heroku and GitHub and and It can be used fully integrated with Heroku platform (pipeline with review, stage and production applications). 
 
