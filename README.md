@@ -15,11 +15,6 @@ Whether reporting bugs, discussing improvements and new ideas or writing extensi
 2. Write a test which shows that the bug was fixed or that the feature works as expected
 3. Send a pull request and bug the maintainer until it gets merged and published
 
-
-#### Credits
-
-[Marcos Ricardo](https://github.com/marcosricardoss/)
-
 ##### The MIT License (MIT)
 
 Copyright (c) 2018 Marcos Ricardo <marcosricardoss@gmail.com>
